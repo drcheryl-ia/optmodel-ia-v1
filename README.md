@@ -37,22 +37,3 @@ git clone https://github.com/drcheryl-ia/optmodel-ia-v1.git
 cd optmodel-ia-v1
 pip install -r requirements.txt
 
-## Utilisation
-
-Un exemple d'utilisation de base est fourni dans le fichier src/main.py. Pour exécuter un test rapide :
-
-```bash
-python src/main.py
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Veuillez lire le fichier CONTRIBUTING.md pour plus de détails sur notre code de conduite et le processus de soumission des pull requests.
-
-## Auteur
-
-Cheryl Lorenzi OGUIAO - Auteur principal
-
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
-
